@@ -8,6 +8,6 @@
 - The application has two modes of operations :
   1. Admin
   2. User / Customer
-  As per the mode of operation, there is a different set of activities that the Admin or the user can perform.
+  *As per the mode of operation, there is a different set of activities that the Admin or the user can perform.*
 
 Technologies: JDK 1.8, MySQL 5.1, JUnit 4
