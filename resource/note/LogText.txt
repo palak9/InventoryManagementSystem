@@ -1,0 +1,14 @@
+Oct 21, 2020 5:34:16 PM system.Test main
+INFO: Welcome to Order Management System!
+Oct 21, 2020 5:36:16 PM system.Test main
+INFO: Welcome to Order Management System!
+Oct 21, 2020 5:45:29 PM system.Test main
+INFO: Welcome to Order Management System!
+Oct 21, 2020 5:49:36 PM system.Test main
+INFO: Welcome to Order Management System!
+Oct 21, 2020 5:50:00 PM system.Test main
+WARNING: Stock item is added
+Oct 21, 2020 5:50:31 PM system.Test main
+WARNING: Stock item is added
+Oct 21, 2020 5:51:56 PM system.Test main
+INFO: Welcome to Order Management System!

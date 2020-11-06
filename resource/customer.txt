@@ -1,0 +1,4 @@
+ CustomerID :111 
+ Order Item :102
+ Quantity :1 
+ Cost :100000

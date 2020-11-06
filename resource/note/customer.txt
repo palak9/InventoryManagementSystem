@@ -1,0 +1,4 @@
+ CustomerID :101 
+ Order Item :21233
+ Quantity :1 
+ Cost : 111000
