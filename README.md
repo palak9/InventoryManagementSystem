@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System - Java
 
 - A console-based study project implemented to get hands-on experience in Java and MySQL Database. 
 - The Design pattern followed : 
